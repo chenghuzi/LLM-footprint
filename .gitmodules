@@ -1,0 +1,3 @@
+[submodule "detectors/Binoculars"]
+	path = detectors/Binoculars
+	url = https://github.com/ahans30/Binoculars.git
